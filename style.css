@@ -1,0 +1,93 @@
+body{
+    background-color: azure;
+}
+
+p{
+	font-size: 15px;
+   
+}
+
+
+#contact iframe
+{
+    width: 100%;
+}
+.contact_1 h3
+{
+    display: inline;
+}
+.contact_1 a
+{
+    text-shadow: none;
+}
+ 
+#marquee{
+    font-size: 30px;
+    color: black;
+}
+    
+}
+
+h3{
+    font-size: 35px;
+    text-align: center;
+    font-family: fantasy;
+    color: blueviolet;
+}
+}
+.achievements_head{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+display: inline-block;
+    
+}
+.achievements_head i{
+    float: right;
+    
+}
+.achievements_text span{
+    color: greenyellow;
+}
+
+}
+.alum{
+    cursor: pointer;
+}
+.alum hr{
+    margin-bottom: 10px;
+    
+}
+.modal-content{
+    margin-top: 100px;
+    
+}
+.img-modal{
+    display: inline-block;
+}
+.p_modal{
+    margin-top: 10px;
+    
+}
+.modal-body{
+    text-align: center;
+    
+}
+
+img.emtpson{
+	height: auto;
+	width: 100%;
+}
+
+img.helena{
+	height: auto;
+	width: 100%;
+}
+
+img.tomhiddle{
+	height: auto;
+	width: 100%;
+}
+    
